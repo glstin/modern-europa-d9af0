@@ -12,6 +12,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
+    image: images/0a081418c47caea923a78eb358efea02.jpg
   - section_id: recent-posts
     type: section_posts
     background: gray
