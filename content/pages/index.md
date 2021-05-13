@@ -21,15 +21,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: left
-        new_window: false
-        no_follow: false
-        type: action
     image: images/0a081418c47caea923a78eb358efea02.jpg
   - section_id: recent-posts
     type: section_posts
