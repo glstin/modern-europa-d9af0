@@ -13,14 +13,6 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-  - section_id: features
-    type: section_features
-    background: gray
-    title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    features: []
   - section_id: reviews
     type: section_reviews
     background: white
