@@ -13,11 +13,6 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-  - section_id: call-to-action
-    type: section_cta
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions: []
   - section_id: recent-posts
     type: section_posts
     background: gray
